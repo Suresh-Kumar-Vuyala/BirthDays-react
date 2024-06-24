@@ -66,3 +66,11 @@ h4,p{
     height:50px;
 
 }
+button{
+  width:98%;
+  background-color: aquamarine;;
+  height:30px;
+  border:none;
+  border-radius:5px;
+  margin-top: 15px;
+}
